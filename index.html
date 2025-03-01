@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DeTec Electronic Parts Search Engine</title>
+    <style>
+        #query {
+            width: 75%;
+        }
+    </style>
+    <script>
+        async function search() {
+            console.log('Starting search()');
+            const query = document.getElementById('query').value;
+            const responseDiv = document.getElementById('response');
+            responseDiv.innerHTML = 'Searching...';
+
+            const lambdaFunctionUrl = 'https://lxgomx2x756uk7ae4qytkigzsm0sdkpx.lambda-url.us-west-2.on.aws/';
+
+            try {
+                const response = await fetch(lambdaFunctionUrl, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ user_query: query })
+                });
+
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+
+                const data = await response.json();
+                responseDiv.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+            } catch (error) {
+                console.log('There was an error with the fetch:', error.message);
+                responseDiv.innerHTML = `Error: ${error.message}`;
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>DeTec Electronic Parts Search Engine</h1>
+    <div>
+        <input type="text" id="query" placeholder="Enter your query here. Integrated circuits only.">
+        <button onclick="search()">Search</button>
+    </div>
+    <div id="response"></div>
+</body>
+</html>

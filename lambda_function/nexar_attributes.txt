@@ -1,0 +1,745 @@
+Shortname	Name
+fullscaleerror	Full Scale Error
+coilvoltage_dc_	Coil Voltage (DC)
+pretravel	Pretravel
+bandwidth	Bandwidth
+maxinputvoltage	Max Input Voltage
+lowleveloutputcurrent	Low Level Output Current
+numberofcores	Number of Cores
+materialthickness	Material Thickness
+nominalvgs	Nominal Vgs
+maxsupplycurrent	Max Supply Current
+naturalthermalresistance	Natural Thermal Resistance
+failurerate	Failure Rate
+pll	PLL
+memorysize	Memory Size
+taildiameter	Tail Diameter
+dualsupplyvoltage	Dual Supply Voltage
+matingretention	Mating Retention
+outputcurrent	Output Current
+housingmaterial	Housing Material
+switchtravel	Switch Travel
+powerrating	Power Rating
+numberofinterrupts	Number of Interrupts
+peaknon_repetitivesurgecurrent	Peak Non-Repetitive Surge Current
+maxsurgecurrent	Max Surge Current
+signaltonoiseratio_snr_	Signal to Noise Ratio (SNR)
+numberofcolumns	Number of Columns
+nominalprimaryvoltage	Nominal Primary Voltage
+pulsesperrevolution	Pulses per Revolution
+responsetime	Response Time
+numberofunidirectionalchannels	Number of Unidirectional Channels
+numberofpositionsloaded	Number of Positions Loaded
+numberofinputs	Number of Inputs
+gasket	Gasket
+current	Current
+minvaristorvoltage	Min Varistor Voltage
+numberofgates	Number of Gates
+collectorbasevoltage_vcbo_	Collector Base Voltage (VCBO)
+temperaturecoefficient	Temperature Coefficient
+voltagerating_dc_	Voltage Rating (DC)
+voltage	Voltage
+overloadprotection	Overload Protection
+switchfunction	Switch Function
+numberofmonitoredinputs	Number of Monitored Inputs
+heightoffbase	Height Off Base
+numberofgpio	Number of GPIO
+portstyle	Port Style
+voltagegain	Voltage Gain
+responsefrequency	Response Frequency
+interiorhousingmaterial	Interior Housing Material
+dielectric	Dielectric
+maxdccurrent	Max DC Current
+glowwirecompliant	Glow Wire Compliant
+threaded_unthreaded	Threaded/Unthreaded
+maxsupplyvoltage_ac_	Max Supply Voltage (AC)
+maxforwardsurgecurrent_ifsm_	Max Forward Surge Current (Ifsm)
+operatingforce	Operating Force
+orientation	Orientation
+fasteningtype	Fastening Type
+inductance	Inductance
+receiverhysteresis	Receiver Hysteresis
+wiregauge_min_	Wire Gauge (Min)
+contactmaterial	Contact Material
+maxvoltagerating_ac_	Max Voltage Rating (AC)
+inputnoisecurrentdensity	Input Noise Current Density
+dissipationfactor	Dissipation Factor
+corematerial	Core Material
+numberofgroundpositions	Number of Ground Positions
+exteriorhousingmaterial	Exterior Housing Material
+connectorsystem	Connector System
+independentcircuits	Independent Circuits
+powerconsumption	Power Consumption
+wire_cablecolor	Wire/Cable Color
+packaging	Packaging
+diameter	Diameter
+indexangle	Index Angle
+underplatematerial	Underplate Material
+nominalsupplycurrent	Nominal Supply Current
+inputbiascurrent	Input Bias Current
+referencevoltage	Reference Voltage
+maxreverseleakagecurrent	Max Reverse Leakage Current
+direction	Direction
+makefirst_breaklast	Make First / Break Last
+outputvoltageaccuracy	Output Voltage Accuracy
+numberofparallelrgbchannels	Number of Parallel RGB Channels
+conductordiameter	Conductor Diameter
+numberofoutputphases	Number of Output Phases
+topology	Topology
+outputcurrentperchannel	Output Current per Channel
+actuatorlength	Actuator Length
+contactlength_mating	Contact Length - Mating
+maxinputvoltage_ac_	Max Input Voltage (AC)
+thermalconductivity	Thermal Conductivity
+militarystandard	Military Standard
+headheight	Head Height
+maxdutycycle	Max Duty Cycle
+maxrepetitivereversevoltage_vrrm_	Max Repetitive Reverse Voltage (Vrrm)
+isolatedpower	Isolated Power
+insidediameter	Inside Diameter
+maxinputcurrent	Max Input Current
+wordsize	Word Size
+mechanicallife	Mechanical Life
+maxbreakdownvoltage	Max Breakdown Voltage
+stabilizers	Stabilizers
+frequency	Frequency
+current_output2	Current - Output 2
+p1db	P1dB
+contactmatinglength	Contact Mating Length
+clampingvoltage	Clamping Voltage
+currenttransferratio	Current Transfer Ratio
+numberofholes	Number of Holes
+highspeedserialdataconnector	High Speed Serial Data Connector
+numberofcharactersperrow	Number Of Characters Per Row
+differentialnonlinearity	Differential Nonlinearity
+durabilityrating	Durability Rating
+iip3	IIP3
+weight	Weight
+rechargeability	Rechargeability
+oscillatortype	Oscillator Type
+characterwidth	Character Width
+attenuationvalue	Attenuation Value
+releasetime	Release Time
+minsupplyvoltage_dc_	Min Supply Voltage (DC)
+casecode_imperial_	Case Code (Imperial)
+numberofspichannels	Number of SPI Channels
+coiltype	Coil Type
+backgroundcolor	Background Color
+qfactor	Q Factor
+saturationcurrent	Saturation Current
+contactcurrentrating	Contact Current Rating
+maxsupplyvoltage	Max Supply Voltage
+numberofprogrammablei_o	Number of Programmable I/O
+on_stateresistance	On-State Resistance
+differentialoutput	Differential Output
+insulationdiameter	Insulation Diameter
+peakwavelength	Peak Wavelength
+maxoutputcurrent	Max Output Current
+numberofa_dconverters	Number of A/D Converters
+backlightcolor	Backlight Color
+cordlength	Cord Length
+outputtype	Output Type
+switchingcurrent	Switching Current
+bodyplating	Body Plating
+illuminationcolor	Illumination Color
+falltime	Fall Time
+switchingcapacity	Switching Capacity
+spurious_freedynamicrange_sfdr_	Spurious-free dynamic range (SFDR)
+platingthickness	Plating Thickness
+shellfinish	Shell Finish
+contactfinishthickness	Contact Finish Thickness
+efficiency	Efficiency
+coilvoltage_ac_	Coil Voltage (AC)
+minsupplyvoltage_ac_	Min Supply Voltage (AC)
+sensingdistance	Sensing Distance
+cathodecurrent	Cathode Current
+speedgrade	Speed Grade
+strippinglength	Stripping Length
+differentialsignaling	Differential Signaling
+forwardvoltage	Forward Voltage
+nominalinputvoltage_dc_	Nominal Input Voltage (DC)
+preloaded	Preloaded
+maxsupplyvoltage_dc_	Max Supply Voltage (DC)
+shape	Shape
+fwftsupport	FWFT Support
+studdiameter	Stud Diameter
+insulationmaterial	Insulation Material
+viewingarea_width_	Viewing Area (width)
+referencetype	Reference Type
+workingvoltage	Working Voltage
+timetotrip	Time to Trip
+numberofwireentries	Number of Wire Entries
+testvoltage	Test Voltage
+numberofi_os	Number of I/Os
+contactretention	Contact Retention
+switchingtemperature	Switching Temperature
+screwflange	Screw Flange
+plating	Plating
+memorytype	Memory Type
+switchingvoltage	Switching Voltage
+loadimpedance	Load Impedance
+faultprotection	Fault Protection
+staticpressure	Static Pressure
+mountingholediameter	Mounting Hole Diameter
+luminousintensity	Luminous Intensity
+turnsratio	Turns Ratio
+length	Length
+numberofreceivebuffers	Number of Receive Buffers
+contactpitch	Contact Pitch
+loadcapacitance	Load Capacitance
+builtinswitch	Built in Switch
+maxcurrentrating	Max Current Rating
+numberofelements	Number of Elements
+controlmethod	Control Method
+terminationpostlength	Termination Post Length
+coilcurrent	Coil Current
+numberofcoresperjack	Number of Cores per Jack
+numberofterminations	Number of Terminations
+evaluationkit	Evaluation Kit
+stackable	Stackable
+interlock	Interlock
+electricallife	Electrical Life
+dcresistance_dcr__parallel	DC Resistance (DCR) - Parallel
+turn_ondelaytime	Turn-On Delay Time
+matingcycles	Mating Cycles
+boardthickness	Board Thickness
+hfemin	hFE Min
+numberofpairs	Number of Pairs
+touchscreen	Touchscreen
+numberofdrivers	Number of Drivers
+contactvoltagerating_ac_	Contact Voltage Rating (AC)
+thermalresistance_forcedairflow_100lfm_	Thermal Resistance @ Forced Air Flow (100 LFM)
+channeltype	Channel Type
+shielding	Shielding
+clockedgetriggertype	Clock Edge Trigger Type
+resolution_width_	Resolution (width)
+numberofregulators	Number of Regulators
+numberofd_aconverters	Number of D/A Converters
+case_package	Case/Package
+diagonalsize	Diagonal Size
+numberofpowerpositions	Number of Power Positions
+heavyduty	Heavy Duty
+maxoperatingtemperature	Max Operating Temperature
+approvals	Approvals
+thermalresistanceofpackage	Thermal Resistance of Package
+numberofdecks	Number of Decks
+panelthickness	Panel Thickness
+zenervoltage	Zener Voltage
+contactstyle	Contact Style
+ambienttemperaturerangelow	Ambient Temperature Range Low
+maxjunctiontemperature	Max Junction Temperature (Tj)
+datapolarity	Data Polarity
+lifecyclestatus	Lifecycle Status
+datecode	Date Code
+maxdatarate	Max Data Rate
+shortcircuitcurrent	Short Circuit Current (ICC)
+onresistance	On Resistance (RON)
+meltingpoint	Melting Point (I2T)
+maxresistance1hour	Maximum Resistance 1 Hour (R1max)
+maxsatcurrent	Max Saturation Current
+temprisecurrent	Temperature Rise Current
+maxthickness	Max Thickness
+manufacturerlifecyclestatus	Manufacturer Lifecycle Status
+phasejitter	Phase Jitter
+flashmemorysize	Flash Memory Size
+maxdigitalsupplyvoltage	Max Digital Supply Voltage
+maxbatteryvoltage	Max Battery Voltage
+nominalanalogsupplyvoltage	Nominal Analog Supply Voltage
+minbandwidth	Min Bandwidth
+mindigitalsupplyvoltage	Min Digital Supply Voltage
+minswitchingfrequency	Min Switching Frequency
+maxbandwidth	Max Bandwidth
+scheduleB	Schedule B
+introdate	Introduction Date
+collectoremittervoltage_vceo_	Collector Emitter Voltage (VCEO)
+mininputvoltage	Min Input Voltage
+watchdogtimer	Watchdog Timer
+panelmountretention	Panel Mount Retention
+gatetosourcevoltage_vgs_	Gate to Source Voltage (Vgs)
+numberoftaps	Number of Taps
+mountinginsert	Mounting Insert
+matingalignment	Mating Alignment
+frequencystability	Frequency Stability
+seriesresistance	Series Resistance
+inputcurrent	Input Current
+density	Density
+numberofbitsperelement	Number of Bits per Element
+contrastratio	Contrast Ratio
+inductance_series	Inductance - Series
+pcbmountalignment	PCB Mount Alignment
+guidehardware	Guide Hardware
+orificediameter	Orifice Diameter
+wire_cablediameter	Wire/Cable Diameter
+numberofbits	Number of Bits
+logicfunction	Logic Function
+connectorscolor	Connectors Color
+minoutputvoltage	Min Output Voltage
+undervoltagethreshold	Undervoltage Threshold
+esdprotection	ESD Protection
+headdiameter	Head Diameter
+selectivelyloaded	Selectively Loaded
+powerdissipation	Power Dissipation
+hightemperaturehousing	High Temperature Housing
+leadpitch	Lead Pitch
+thickness	Thickness
+maxoutputvoltage	Max Output Voltage
+maxcollectorcurrent	Max Collector Current
+powersupplyrejectionratio_psrr_	Power Supply Rejection Ratio (PSRR)
+washable	Washable
+backlighttype	Backlight Type
+bparameter	B Parameter
+nominaloutputvoltage	Nominal Output Voltage
+matingpostlength	Mating Post Length
+databuswidth	Data Bus Width
+emitterbasevoltage_vebo_	Emitter Base Voltage (VEBO)
+slewrate	Slew Rate
+backwall_postinterruptions	Backwall/Post Interruptions
+gendertypea	Gender Type A
+testtemperature	Test Temperature
+zenercurrent	Zener Current
+numberofethernetchannels	Number of Ethernet Channels
+screwlessterminalblock	Screwless Terminal Block
+minsupplyvoltage	Min Supply Voltage
+voltagerating_ac_	Voltage Rating (AC)
+tripcurrent	Trip Current
+quiescentcurrent	Quiescent Current
+testcurrent	Test Current
+linearity	Linearity
+outputconfiguration	Output Configuration
+thresholdvoltage	Threshold Voltage
+bearingtype	Bearing Type
+outsidediameter	Outside Diameter
+numberofsignalpositions	Number of Signal Positions
+environmentalprotection	Environmental Protection
+numberofpolesperdeck	Number of Poles per Deck
+composition	Composition
+hysteresis	Hysteresis
+reverserecoverytime	Reverse Recovery Time
+numberofuartchannels	Number of UART Channels
+current_output1	Current - Output 1
+contactplating	Contact Plating
+height_seated_max_	Height - Seated (Max)
+mininputvoltage_ac_	Min Input Voltage (AC)
+inputvoltagenoisedensity	Input Voltage Noise Density
+numberofwords	Number of Words
+insulation	Insulation
+mscp	MSCP
+flangediameter	Flange Diameter
+connectortypeb	Connector Type B
+numberoflogicelements_cells	Number of Logic Elements/Cells
+maxvaristorvoltage	Max Varistor Voltage
+pulsewidthdistortion_pwd_	Pulse Width Distortion (PWD)
+strandsize	Strand Size
+turn_offdelaytime	Turn-Off Delay Time
+supplytype	Supply Type
+propagationdelay	Propagation Delay
+contactshape	Contact Shape
+reversebreakdownvoltage	Reverse Breakdown Voltage
+currentsensing	Current Sensing
+collectoremitterbreakdownvoltage	Collector Emitter Breakdown Voltage
+operatingpressure	Operating Pressure
+maxdualsupplyvoltage	Max Dual Supply Voltage
+numberofadcchannels	Number of ADC Channels
+operatingposition	Operating Position
+maxpressure	Max Pressure
+minoperatingtemperature	Min Operating Temperature
+voltagerating	Voltage Rating
+matingtabwidth	Mating Tab Width
+dateformat	Date Format
+voltage_output1	Voltage - Output 1
+numberofanalogoutputs	Number of Analog Outputs
+leaddiameter	Lead Diameter
+collectoremittersaturationvoltage	Collector Emitter Saturation Voltage
+strainrelief	Strain Relief
+inputresistance	Input Resistance
+axis	Axis
+impedance	Impedance
+timeformat	Time Format
+isolationvoltage	Isolation Voltage
+keyed	Keyed
+maxfrequency	Max Frequency
+gainbandwidthproduct	Gain Bandwidth Product
+minresetthresholdvoltage	Min Reset Threshold Voltage
+corearchitecture	Core Architecture
+frequencytolerance	Frequency Tolerance
+rdsonmax	Rds On Max
+numberofturns	Number of Turns
+ripplecurrent	Ripple Current
+elementconfiguration	Element Configuration
+primarywinding_s_	Primary Winding(s)
+studsize	Stud Size
+numberofsegments	Number of Segments
+terminalmaterial	Terminal Material
+sensingmethod	Sensing Method
+numberofpwmchannels	Number of PWM Channels
+hightemperaturecompatible	High Temperature Compatible
+numberofleds	Number of LEDs
+taillength	Tail Length
+boss	Boss
+sidestackable	Side Stackable
+ratings	Ratings
+non_volatilememorysize	Non-volatile Memory Size
+chemistry_technology	Chemistry/Technology
+continuouscollectorcurrent	Continuous Collector Current
+brightness	Brightness
+lensstyle	Lens Style
+capacity	Capacity
+numberofgangs	Number of Gangs
+peripherals	Peripherals
+dominantwavelength	Dominant Wavelength
+cablelength	Cable Length
+polarity	Polarity
+ntcthermistor	NTC Thermistor
+returnloss	Return Loss
+rohs	RoHS
+mininputvoltage_dc_	Min Input Voltage (DC)
+datarate	Data Rate
+outputvoltage	Output Voltage
+numberofdacchannels	Number of DAC Channels
+numberoftransmitbuffers	Number of Transmit Buffers
+numberofbidirectionalchannels	Number of Bidirectional Channels
+resettimeout	Reset Timeout
+recoverytime	Recovery Time
+currentrating	Current Rating
+transitionfrequency	Transition Frequency
+inputoffsetvoltage_vos_	Input Offset Voltage (Vos)
+terminalpitch	Terminal Pitch
+numberoftransmitters	Number of Transmitters
+diodetype	Diode Type
+secondarywinding_s_	Secondary Winding(s)
+actuatordiameter	Actuator Diameter
+reversevoltage_dc_	Reverse Voltage (DC)
+nominalsupplyvoltage_ac_	Nominal Supply Voltage (AC)
+voltage_output3	Voltage - Output 3
+terminalwidth	Terminal Width
+actuatingsystem	Actuating System
+correlatedcolortemperature_cct_	Correlated Color Temperature (CCT)
+speed_write	Speed - Write
+nominalsupplyvoltage_dc_	Nominal Supply Voltage (DC)
+governmentqualified	Government Qualified
+primarycurrent	Primary Current
+wiregauge_max_	Wire Gauge (Max)
+inductancetolerance	Inductance Tolerance
+reachsvhc	REACH SVHC
+highleveloutputcurrent	High Level Output Current
+integralnonlinearity_inl_	Integral Nonlinearity (INL)
+numberoflogicblocks_labs_	Number of Logic Blocks (LABs)
+fusecurrent	Fuse Current
+contactprotection	Contact Protection
+cardthickness	Card Thickness
+nominalgainbandwidthproduct	Nominal Gain Bandwidth Product
+darkcurrent	Dark Current
+numberofinputlines	Number of Input Lines
+input	Input
+wire_cabletype	Wire/Cable Type
+numberofvoltagesmonitored	Number of Voltages Monitored
+operatetime	Operate Time
+housingcolor	Housing Color
+fluidtype	Fluid Type
+numberoflines	Number of Lines
+characterheight	Character Height
+circuittype	Circuit Type
+mincurrentlimit	Min Current Limit
+shellmaterial	Shell Material
+numberofchannels	Number of Channels
+feedthroughtype	Feedthrough Type
+maxoutputpower	Max Output Power
+numberofconductors	Number of Conductors
+numberofpoles	Number of Poles
+casecode_metric_	Case Code (Metric)
+ripplecurrent_ac_	Ripple Current (AC)
+commonmoderejectionratio	Common Mode Rejection Ratio
+draintosourcebreakdownvoltage	Drain to Source Breakdown Voltage
+varistorvoltage	Varistor Voltage
+flammabilityrating	Flammability Rating
+numberofcircuits	Number of Circuits
+airflow	Airflow
+accesstime	Access Time
+numberofi2cchannels	Number of I2C Channels
+contactvoltagerating_dc_	Contact Voltage Rating (DC)
+numberofbatteries	Number of Batteries
+baudrate	Baud Rate
+inputcapacitance	Input Capacitance
+dccoldresistance	DC Cold Resistance
+pixelwidth	Pixel Width
+differentialtravel	Differential Travel
+dielectricmaterial	Dielectric Material
+resolution_height_	Resolution (height)
+polarized	Polarized
+gendertypeb	Gender Type B
+sensortype	Sensor Type
+contactgender	Contact Gender
+lead_basestyle	Lead/Base Style
+current_transmitting	Current - Transmitting
+sensitivity_lsb_g_	Sensitivity (LSB/g)
+sensitivity_mv_g_	Sensitivity (mV/g)
+sensitivity_mv_a_	Sensitivity (mV/A)
+insertionloss_db_	Insertion Loss (dB)
+countryoforigin	Country of Origin
+gatecharge	Gate Charge (Qg)
+marketplacelifecyclestatus	Marketplace Lifecycle Status [DEPRECATED SPECDEF DO NOT USE]
+maxinsidediameter	Max Inside Diameter
+mininsidediameter	Min Inside Diameter
+maxrmscurrent	Max RMS Current
+collectorbasebreakdownvoltage	Collector Base Breakdown Voltage (VCES)
+commonmodeimpedance	Common Mode Impedance
+commonmodeinductance	Common Mode Inductance
+maxwidth	Max Width
+minwidth	Min Width
+maxlength	Max Length
+clockrate	Clock Rate
+numberofoutputfrequencies	Number of Output Frequencies
+coreclockrate	Core Clock Rate
+eeprommemorysize	EEPROM Memory Size
+maxswitchingfrequency	Max Switching Frequency
+nominaldigitalsupplyvoltage	Nominal Digital Suppy Voltage
+minoutputfrequency	Min Output Frequency
+maxinputfrequency	Max Input Frequency
+undervoltagepositivegoingthreshold	Under-Voltage Positive-Going Threshold
+numberofusartchannels	Number of USART Channels
+hscode	HS Code
+numberofcontacts	Number of Contacts
+pitch	Pitch
+dcresistance_dcr_	DC Resistance (DCR)
+reversestandoffvoltage	Reverse Standoff Voltage
+type	Type
+_3dbbandwidth	-3db Bandwidth
+lenssize	Lens Size
+vdetested	VDE Tested
+matingpitch	Mating Pitch
+current_receiving	Current - Receiving
+maxchargecurrent	Max Charge Current
+shroudedenddimension	Shrouded End Dimension
+contactlocation	Contact Location
+selfresonantfrequency	Self Resonant Frequency
+lenscolor	Lens Color
+tabthickness	Tab Thickness
+insulationcolor	Insulation Color
+firstconductormark	First Conductor Mark
+mountingears	Mounting Ears
+connectortype	Connector Type
+colorrenderingindex_cri_	Color Rendering Index (CRI)
+insulationthickness	Insulation Thickness
+powerlineprotection	Power Line Protection
+loadcurrent	Load Current
+dcresistance_dcr__series	DC Resistance (DCR) - Series
+wire_cablegauge	Wire/Cable Gauge
+accuracy	Accuracy
+dccurrent	DC Current
+dropoutvoltage	Dropout Voltage
+numberoftransceivers	Number of Transceivers
+depth	Depth
+simplex_duplex	Simplex/Duplex
+contactfinishthickness_post	Contact Finish Thickness - Post
+numberofterminals	Number of Terminals
+insulationheight	Insulation Height
+rpm	RPM
+esr_equivalentseriesresistance_	ESR (Equivalent Series Resistance)
+numberofbands	Number of Bands
+pcbmountretention	PCB Mount Retention
+conductormaterial	Conductor Material
+factoryinstalledbackshell	Factory Installed Backshell
+pagesize	Page Size
+resolution	Resolution
+luminousflux	Luminous Flux
+numberofcapacitors	Number of Capacitors
+numberofpins	Number of Pins
+clampingcurrent	Clamping Current
+detent	Detent
+mode	Mode
+tolerance	Tolerance
+contactfinishthickness_mating	Contact Finish Thickness - Mating
+material	Material
+maxreversevoltage_dc_	Max Reverse Voltage (DC)
+maxi_ovoltage	Max I/O Voltage
+cablepitch	Cable Pitch
+numberofcharacters	Number of Characters
+ribbonwidth	Ribbon Width
+socketdepth	Socket Depth
+reversevoltage	Reverse Voltage
+energy	Energy
+holdcurrent	Hold Current
+outputpower	Output Power
+bundlediameter	Bundle Diameter
+programmableflagssupport	Programmable Flags Support
+connectorpitch	Connector Pitch
+viewingarea_height_	Viewing Area (height)
+displaytype	Display Type
+relaytype	Relay Type
+schmitttriggerinput	Schmitt Trigger Input
+packagequantity	Package Quantity
+actuatormaterial	Actuator Material
+maxvoltagerating_dc_	Max Voltage Rating (DC)
+bodymaterial	Body Material
+breakertype	Breaker Type
+leakagecurrent	Leakage Current
+resistance	Resistance
+nominalinputvoltage_ac_	Nominal Input Voltage (AC)
+motortype	Motor Type
+forwardcurrent	Forward Current
+numberofrows	Number of Rows
+nominalsecondaryvoltage	Nominal Secondary Voltage
+tonguethickness	Tongue Thickness
+draintosourceresistance	Drain to Source Resistance
+numberofcoils	Number of Coils
+rmscurrent_irms_	RMS Current (Irms)
+height	Height
+speed_read	Speed - Read
+matingconnectorlock	Mating Connector Lock
+addressbuswidth	Address Bus Width
+synchronousrectifier	Synchronous Rectifier
+resetdelaytime	Reset Delay Time
+numberofpositions	Number of Positions
+differentialpairspercolumn	Differential Pairs per Column
+peakreversecurrent	Peak Reverse Current
+packagecooled	Package Cooled
+maxinputvoltage_dc_	Max Input Voltage (DC)
+numberofconverters	Number of Converters
+overtravel	Overtravel
+current_output3	Current - Output 3
+hybridconnector	Hybrid Connector
+viewingangle	Viewing Angle
+numberofamplifiers	Number of Amplifiers
+inductance_parallel	Inductance - Parallel
+pcbthickness	PCB Thickness
+reset	Reset
+samplingrate	Sampling Rate
+operatingsystem	Operating System
+holediameter	Hole Diameter
+sealable	Sealable
+numberofresistors	Number of Resistors
+averagerectifiedcurrent	Average Rectified Current
+isolation	Isolation
+leadlength	Lead Length
+capacitance	Capacitance
+switchingfrequency	Switching Frequency
+secondarycurrent	Secondary Current
+sync_async	Sync/Async
+insulatedwiresupport	Insulated Wire Support
+voltage_output2	Voltage - Output 2
+contactlength_post	Contact Length - Post
+insulationresistance	Insulation Resistance
+pixelheight	Pixel Height
+indexstops	Index Stops
+ribbonthickness	Ribbon Thickness
+width	Width
+numberofoutputs	Number of Outputs
+illuminationtype	Illumination Type
+powerperelement	Power Per Element
+taper	Taper
+features	Features
+fibercorediameter	Fiber Core Diameter
+contactresistance	Contact Resistance
+serviceable	Serviceable
+numberofreceivers	Number of Receivers
+powergain	Power Gain
+numberofregisters	Number of Registers
+pinholediameter	Pin Hole Diameter
+noiselevel	Noise Level
+acoutlets	AC Outlets
+throwconfiguration	Throw Configuration
+overvoltagethreshold	Overvoltage Threshold
+radiationhardening	Radiation Hardening
+rowspacing	Row Spacing
+operatingsupplyvoltage	Operating Supply Voltage
+minbreakdownvoltage	Min Breakdown Voltage
+numberofmacrocells	Number of Macrocells
+encodertype	Encoder Type
+maxspeed	Max Speed
+fibercladdingdiameter	Fiber Cladding Diameter
+voltage_output4	Voltage - Output 4
+clocksync	Clock Sync
+retransmitcapability	Retransmit Capability
+maxpowerdissipation	Max Power Dissipation
+coilpower	Coil Power
+batterypackvoltage	Battery Pack Voltage
+maxacceleration	Max Acceleration
+usbstandard	USB Standard
+closedend	Closed End
+breakdownvoltage	Breakdown Voltage
+tablength	Tab Length
+testfrequency	Test Frequency
+halogenfree	Halogen Free
+nominalinputvoltage	Nominal Input Voltage
+noise	Noise
+settlingtime	Settling Time
+mountingholespacing	Mounting Hole Spacing
+numberoflevels	Number of Levels
+termination	Termination
+ripplecurrent_dc_	Ripple Current (DC)
+leadfree	Lead Free
+fuse	Fuse
+mindualsupplyvoltage	Min Dual Supply Voltage
+interface	Interface
+numberofports	Number of Ports
+noisefigure	Noise Figure
+failshort	Fail Short
+gender	Gender
+color	Color
+continuousdraincurrent_id_	Continuous Drain Current (ID)
+peakpulsecurrent	Peak Pulse Current
+elv	ELV
+tabwidth	Tab Width
+busdirectional	Bus Directional
+feedtype	Feed Type
+pcbmountingorientation	PCB Mounting Orientation
+conversionrate	Conversion Rate
+pressuretype	Pressure Type
+mount	Mount
+voltagetolerance	Voltage Tolerance
+stackheight	Stack Height
+draintosourcevoltage_vdss_	Drain to Source Voltage (Vdss)
+peakpulsepower	Peak Pulse Power
+numberofcells	Number of Cells
+numberoftimers_counters	Number of Timers/Counters
+threadsize	Thread Size
+unitygainbandwidthproduct	Unity Gain Bandwidth Product
+shrouded	Shrouded
+numberofusbchannels	Number of USB Channels
+lenstransparency	Lens Transparency
+operatingsupplycurrent	Operating Supply Current
+boardstandoff	Board Standoff
+wavelength	Wavelength
+dutycycle	Duty Cycle
+assemblylength	Assembly Length
+risetime	Rise Time
+gain	Gain
+numberofstrands	Number of Strands
+dimming	Dimming
+pinlength	Pin Length
+matedstackingheights	Mated Stacking Heights
+maxresetthresholdvoltage	Max Reset Threshold Voltage
+connectortypea	Connector Type A
+ramsize	RAM Size
+life_hours_	Life (Hours)
+circuitapplication	Circuit Application
+numberofanaloginputs	Number of Analog Inputs
+numberofoutputlines	Number of Output Lines
+coilresistance	Coil Resistance
+life_cycles_	Life (Cycles)
+numberofpositionsperlevel	Number of Positions Per Level
+sensitivity_dbm_	Sensitivity (dBm)
+ambienttemperaturerangehigh	Ambient Temperature Range High
+mfgpackage_id	Manufacturer Package Identifier
+testspecdef	testspecdef
+lifecyclestatustest	lifecyclestatustest
+eccncode	Export Control Classification Number (ECCN) Code
+htscode	Harmonized Tariff Schedule (HTS) Code
+pindiameter	Pin Diameter
+minresistanceinitial	Minimum Resistance Initial (Rmin)
+maxtemprisecurrent	Max Temperature Rise Current
+minthickness	Min Thickness
+minlength	Min Length
+cutofffrequency	Cutoff Frequency
+cycletime	Cycle Time
+numberofdigitalio	Number of Digital IO
+fifobuffersize	FIFO Buffer Size
+interfacespeed	Interface Speed
+numberofleddrivers	Number of LED Drivers
+maxpropagationdelay	Max Propagation Delay
+undervoltagenegativegoingthreshold	Under-Voltage Negative-Going Threshold
+minoutputpower	Min Output Power
+maxoutputfrequency	Max Output Frequency
+mininputfrequency	Min Input Frequency
+china_rohs	China RoHS
+ProjectedEOLDate	Projected EOL Date
