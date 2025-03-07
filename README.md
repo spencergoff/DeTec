@@ -41,3 +41,21 @@ At the time of writing, the next major tasks are:
 # Demo
 
 Proof-of-concept demo of the DeTec component search engine is here: https://youtu.be/YRZwEUJqhIU
+
+# Evaluation
+
+We will judge the accuracy of our system by how it performs against the tests in the tests/circuit_requirements.yaml file. Each test case is a potential user query which only has one or a handful of correct answers, and is assigned a difficulty level based on these criteria: 
+1. A query with 1-5 basic requirements.
+2. A query with 5-10 basic requirements.
+3. A query with 5-10 requirements, including at least 2 intermediate requirements.
+4. A query with 8-10 requirements, including at least 2 intermediate requirements and 1 complex requirement. 
+5. A query with more than 10 requirements, including at least 3 intermediate requirements and 2 or more complex requirements.
+
+Requirement difficulty definitions:
+* A basic requirement is one which is readily available via common component search APIs and component landing pages using simple text extraction.
+* An intermediate requirment is one which requires either applying math operations to find the correct component (e.g. quiescent current less than 10 mA, as opposed to equals 10 mA) or understanding charts in component datasheets.
+* A complex requirement is one which requires domain knowledge and complex reasoning.
+
+Each release of the application will be tagged with a score. A score is calculated by dividing the number of points the application gets by the total number of possible points in the evaluation set. Correctly guessing the answer to a test case with a difficulty of 3 will give the application 3 points, and so on.
+
+Each test case will come from a real-world scenario.

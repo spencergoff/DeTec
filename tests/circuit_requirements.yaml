@@ -1,0 +1,6 @@
+test_cases:
+  - description: Power Supply
+    difficulty: 1
+    unstructured_query: "Give me a PMIC with buck switching frequency up to 18 MHz, functional safety up to ASIL B."
+    possible_mpns:
+      - "LP87745"

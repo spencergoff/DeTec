@@ -35,7 +35,7 @@
                 responseDiv.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
             } catch (error) {
                 console.log('There was an error with the fetch:', error.message);
-                responseDiv.innerHTML = `Error: ${error.message}`;
+                responseDiv.innerHTML = `There was a problem executing the search. Please try again later.`;
             }
         }
     </script>
@@ -46,6 +46,7 @@
         <input type="text" id="query" placeholder="Enter your query here. Integrated circuits only.">
         <button onclick="search()">Search</button>
     </div>
+    <p>Example query: Give me the URL for an integrated circuit with a quiescent current 10mA and dropout current of 1.2 V.</p>
     <div id="response"></div>
 </body>
 </html>

@@ -13,7 +13,7 @@ def lambda_handler(event, context):
         return {
             "statusCode": 200,
             "headers": {
-                "Access-Control-Allow-Origin": "http://detec-frontend.s3-website-us-west-2.amazonaws.com",
+                "Access-Control-Allow-Origin": "https://d3r9mhcj5ucoi7.cloudfront.net/", # Remember to replace this if I change the domain
                 "Access-Control-Allow-Methods": "OPTIONS, GET, POST",
                 "Access-Control-Allow-Headers": "Content-Type"
             },
@@ -137,7 +137,7 @@ def lambda_handler(event, context):
             spec_attributes.append(_filter)
 
         formatted_spec_attributes = "[\n" + ",\n".join(spec_attributes) + "\n]"
-        print(f'formatted_spec_attributes: {formatted_spec_attributes}')
+        #print(f'formatted_spec_attributes: {formatted_spec_attributes}')
 
         CLIENT_ID = '97c7cdb7-d24c-493a-9c36-fd4fd4467b08' # Evaluation App
         NEXAR_CLIENT_SECRET = os.getenv('NEXAR_CLIENT_SECRET')
@@ -197,6 +197,8 @@ def lambda_handler(event, context):
         else:
             response_to_user += 'I couldn\'t find a datasheet or URL for this part.</p>'
         
+        print(f'response_to_user: {response_to_user}')
+
         return {
             "headers": {
                 "Content-Type": "application/json",
