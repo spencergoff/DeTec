@@ -15,6 +15,7 @@
     ]
   },
   "context": {
+    "@aws-cdk/core:stackRelativeExports": true,
     "@aws-cdk/aws-lambda:recognizeLayerVersion": true,
     "@aws-cdk/core:checkSecretUsage": true,
     "@aws-cdk/core:target-partitions": [
@@ -83,7 +84,7 @@
     "@aws-cdk/core:enableAdditionalMetadataCollection": true,
     "@aws-cdk/aws-lambda:createNewPoliciesWithAddToRolePolicy": true
   },
-  "output": "cdk.out",
+  "output": "/tmp/cdk.out",
   "assetMetadata": false,
   "pathMetadata": false
 }
