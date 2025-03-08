@@ -82,5 +82,8 @@
     "@aws-cdk/aws-iam:oidcRejectUnauthorizedConnections": true,
     "@aws-cdk/core:enableAdditionalMetadataCollection": true,
     "@aws-cdk/aws-lambda:createNewPoliciesWithAddToRolePolicy": true
-  }
+  },
+  "output": "cdk.out",
+  "assetMetadata": false,
+  "pathMetadata": false
 }
